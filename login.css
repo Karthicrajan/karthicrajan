@@ -1,0 +1,23 @@
+.cardlayout{
+    margin-top: 20px;
+    border-width: 50%;
+    
+ 
+}
+.loginbtn{
+    text-align: center;
+}
+.bodytext{
+    text-align: center;
+    margin-top: 40%;
+    
+}
+
+.Manage{
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+body{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(80,51,126,0.9864320728291317) 67%);
+}
